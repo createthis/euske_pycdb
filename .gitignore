@@ -1,0 +1,9 @@
+# vim
+*.swp
+**/*.swp
+
+# venv
+.venv
+
+my.cdb
+true.cdb
