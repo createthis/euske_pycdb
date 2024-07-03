@@ -1,5 +1,6 @@
 # What
 I took the code at https://www.unixuser.org/~euske/doc/cdbinternals/pycdb.py.html and made it Python 3 compatible.
+@euske here on github.
 
 I also replaced https://github.com/acg/python-cdb (now unmaintained) with https://python-pure-cdb.readthedocs.io/en/latest/
 
