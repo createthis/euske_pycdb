@@ -5,8 +5,9 @@ I took the code at https://www.unixuser.org/~euske/doc/cdbinternals/pycdb.py.htm
 I also replaced https://github.com/acg/python-cdb (now unmaintained) with https://python-pure-cdb.readthedocs.io/en/latest/
 
 # Why?
-I wanted to write a port of CDB to Swift for a work project and the `cdbget` function in this code is the 
-cleanest and least choppy (broken up into separate functions) version I could find anywhere on the internet.
+I wanted to write a [port of CDB to Swift](https://github.com/createthis/swift-cdb) for a work project and 
+the `cdbget` function in this code is the cleanest and least choppy (broken up into separate functions) version 
+I could find anywhere on the internet.
 
 # Getting Started
 
